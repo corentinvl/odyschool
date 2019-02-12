@@ -1,2 +1,2 @@
 # odyschool
-An augmented reality school based on personalization and relationships
+An augmented reality campus based on personalization and relationships
