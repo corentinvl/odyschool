@@ -1,2 +1,2 @@
 # odyschool
-An online school for singularity
+An augmented reality school based on personalization and relationships
