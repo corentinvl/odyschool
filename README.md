@@ -7,9 +7,10 @@ It will help you to learn the skills you need to get a pleasant job in a short p
 There is no need to apply and it's free of charge. 
 Each program is composed by three asynchronous parts:
 &nbsp;
-[-] [![paths](https://img.shields.io/badge/personal_development-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
-[-] [![paths](https://img.shields.io/badge/the_theory_side-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
-[-] [![paths](https://img.shields.io/badge/the_practical_side-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
+\
+[![paths](https://img.shields.io/badge/personal_development-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
+[![paths](https://img.shields.io/badge/the_theory_side-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
+[![paths](https://img.shields.io/badge/the_practical_side-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
 
 As soon as you have completed the main program you must passed the 'pool'
 
