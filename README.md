@@ -6,6 +6,7 @@ It will help you to learn the skills you need to get a pleasant job in a short p
 &nbsp;
 There is no need to apply and it's free of charge. 
 Each program is composed by three asynchronous parts:
+
 &nbsp;
 \
 [![paths](https://img.shields.io/badge/personal_development-explore_now-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) \
@@ -20,7 +21,6 @@ The pool selectives enable you to get an internship into - or your current compa
 You can explore the program tracks. When you are ready to start a program, you have to sign up to Odyschool. 
 Don't worry, it's free. By signing up you will enter our community, have projects to work out and all of the courses.
 
-Here is a diagram for a better understanding of how Odyschool works:
 
 
 
@@ -43,14 +43,6 @@ Available programs:
 | Handwrite notes
 | 1 small project / assignment per week
 
-| Part | Description | Link |
-| ------ | ------ | ------ |
-| Basics | [plugins/dropbox/README.md][PlDb] | [![paths](https://img.shields.io/badge/software%20engineering-apply-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 # List of donators 
 ***
