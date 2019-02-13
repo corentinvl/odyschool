@@ -63,4 +63,4 @@ Available programs:
 
 
 *How big Odyschool can be?*
-© Odyschool 2019 - *back up by AI, use by humans*
+Copyright © 2019 Odyschool
