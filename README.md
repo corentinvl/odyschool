@@ -13,8 +13,6 @@ Each program is composed by three asynchronous parts:
 
 As soon as you have completed the main program you must passed the 'pool'
 
-![Image of Yaktocat](https://i.huffpost.com/gen/1274354/thumbs/o-CHINA2-570.jpg?6)
-
 The pool test your technical skills, your motivation and your ability to succed in enterprise environments.
 The pool selectives enable you to get an internship into - or your current company -
 
