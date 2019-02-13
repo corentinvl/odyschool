@@ -1,5 +1,5 @@
 # Odyschool
-
+***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
@@ -57,7 +57,7 @@ Available programs:
 ***
 [![paths](https://img.shields.io/badge/donate-now-orange.svg)](https://ody.revv.co/donate-today?amount=25) 
 |rank | Name | Twitter | Amount | Message |
-| --- | ---- | ------- | ------ | ------- |
-| 1 |Corentin Val | @corentinvl | $42 | Have a nice day! |
+| --- | ---- | ------- | ------ | --- |
+| 1|Corentin Val | @corentinvl | $42 | Have a nice day! |
 
 © Odyschool 2019 - *back up by AI, use by humans*
