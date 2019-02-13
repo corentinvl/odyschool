@@ -58,4 +58,11 @@ Available programs:
 | --- | ---- | ------- | ------ | --- |
 | 1|Corentin Val | @corentinvl | $42 | Have a nice day! |
 
+[![paths](https://img.shields.io/badge/donate-now-orange.svg)](https://ody.revv.co/donate-today?amount=25) 
+| Rank | Name | Twitter | Amount |
+| ---- | ---- | ------- | ------ |
+| 1 | Corentin Val | @corentinvl | $42 |
+
+
+*How big Odyschool can be?*
 © Odyschool 2019 - *back up by AI, use by humans*
