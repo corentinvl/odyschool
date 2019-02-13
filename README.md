@@ -1,5 +1,5 @@
 # Odyschool
-***
+
 #### Odyschool is developing an online campus based on personalization and relationships.
 
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
