@@ -8,7 +8,7 @@ Available programs:
 
 | Part | Description | Link |
 | ------ | ------ | ------ |
-| Basics | [plugins/dropbox/README.md][PlDb] |
+| Basics | [plugins/dropbox/README.md][PlDb] | [![paths](https://img.shields.io/badge/software%20engineering-apply-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) |
 | Github | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
