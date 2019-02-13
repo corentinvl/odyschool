@@ -28,7 +28,7 @@ Available programs:
 [![paths](https://img.shields.io/badge/data%20science-explore-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
 
 ##### Is it useful? 
-[![paths](https://img.shields.io/badge/👍-lightgrey.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) [![paths](https://img.shields.io/badge/👎-lightgrey.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
+[![paths](https://img.shields.io/badge/👍-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8D&body=) [![paths](https://img.shields.io/badge/👎-grey.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
 
 ## Menu
 
