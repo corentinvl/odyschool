@@ -2,6 +2,10 @@
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
+### Sign up [![paths](https://img.shields.io/badge/Sign_Up-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
+### Sign in [![paths](https://img.shields.io/badge/Sign_In-gray.svg)]
+(https://github.com/corentinvl/odyschool/blob/master/README.md)
+
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
 &nbsp;
 There is no need to apply and it's free of charge. 
@@ -21,11 +25,6 @@ The pool selectives enable you to get an internship into - or your current compa
 You can explore the program tracks. When you are ready to start a program, you have to sign up to Odyschool. 
 Don't worry, it's free. By signing up you will enter our community, have projects to work out and all of the courses.
 
-
-
-
-Available programs:
-[![paths](https://img.shields.io/badge/data%20science-explore-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
 
 ##### Is it useful? 
 [![paths](https://img.shields.io/badge/👍-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8D&body=) [![paths](https://img.shields.io/badge/👎-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8E&body=)
