@@ -8,9 +8,9 @@
 
 ### Table of Contents
 
-- How it works? (it's free)
+- How it works? (it's free :))
 - Curriculums
--
+- Contribution
 
 
 ***
