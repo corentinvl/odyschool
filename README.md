@@ -2,7 +2,11 @@
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
+## Menu
+
 ### [![paths](https://img.shields.io/badge/Sign_up-orange.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) [![paths](https://img.shields.io/badge/Sign_in-gray.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
+
+***
 
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
 &nbsp;
@@ -27,11 +31,7 @@ Don't worry, it's free. By signing up you will enter our community, have project
 ##### Is it useful? 
 [![paths](https://img.shields.io/badge/👍-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8D&body=) [![paths](https://img.shields.io/badge/👎-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8E&body=)
 
-## Menu
 
-```diff
-+ Current members: 2;
-```
 
 | Learning methods |||
 | ------ | ------ | ------ |
