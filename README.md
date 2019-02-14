@@ -3,6 +3,8 @@
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
+
+[![paths](https://youtu.be/IEzaFR_X35U?t=421)
 ## Menu
 
 ### [![paths](https://img.shields.io/badge/Sign_up-orange.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) [![paths](https://img.shields.io/badge/Sign_in-gray.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
