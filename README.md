@@ -1,11 +1,4 @@
-# Odyschool
-
-   ____      __                __                __
-  / __ \____/ /_  ____________/ /_  ____  ____  / /
- / / / / __  / / / / ___/ ___/ __ \/ __ \/ __ \/ / 
-/ /_/ / /_/ / /_/ (__  ) /__/ / / / /_/ / /_/ / /  
-\____/\__,_/\__, /____/\___/_/ /_/\____/\____/_/   
-           /____/                                                           
+# Odyschool                     
 
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
@@ -19,7 +12,6 @@
 - [How it works?](#hiw)
 - Curriculums
 - Contribution
-
 
 ***
 
