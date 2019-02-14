@@ -27,6 +27,7 @@ The pool selectives enable you to get an internship into - or your current compa
 You can explore the program tracks. When you are ready to start a program, you have to sign up to Odyschool. 
 Don't worry, it's free. By signing up you will enter our community, have projects to work out and all of the courses.
 
+![odyschool diagram](https://github.com/corentinvl/odyschool/blob/master/diagram.PNG)
 
 ##### Is it useful? 
 [![paths](https://img.shields.io/badge/👍-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8D&body=) [![paths](https://img.shields.io/badge/👎-grey.svg)](mailto:odyschool@gmail.com?subject=%F0%9F%91%8E&body=)
