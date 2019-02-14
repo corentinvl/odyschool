@@ -8,13 +8,14 @@
 
 ### Table of Contents
 
-- How it works? (it's free :))
+- [How it works?](#hiw)
 - Curriculums
 - Contribution
 
 
 ***
 
+#How it works?(hiw)
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
 &nbsp;
 There is no need to apply and it's free of charge. 
