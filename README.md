@@ -2,9 +2,9 @@
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
-### Sign up [![paths](https://img.shields.io/badge/Sign_Up-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
-### Sign in [![paths](https://img.shields.io/badge/Sign_In-gray.svg)]
-(https://github.com/corentinvl/odyschool/blob/master/README.md)
+### Sign up [![paths](https://img.shields.io/badge/Sign_up-brightgreen.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md)
+
+### Sign in [![paths](https://img.shields.io/badge/Sign_in-gray.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
 
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
 &nbsp;
