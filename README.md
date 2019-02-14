@@ -6,6 +6,13 @@
 
 ### [![paths](https://img.shields.io/badge/Sign_up-orange.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) [![paths](https://img.shields.io/badge/Sign_in-gray.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
 
+### Table of Contents
+
+- How it works? (it's free)
+- Curriculums
+-
+
+
 ***
 
 It will help you to learn the skills you need to get a pleasant job in a short period of time.
