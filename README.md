@@ -1,13 +1,16 @@
 # Odyschool                     
 
 ***
-#### Odyschool is developing an online campus based on personalization and relationships.
+#### Odyschool is developing new college campuses based on personalization and relationships.
+
+Upgrade your life and Follow your passion.
+
 
 ![Omega](https://ih0.redbubble.net/image.209141677.5261/ap,550x550,12x16,1,transparent,t.u2.png)
 
 ## Menu
 
-### [![paths](https://img.shields.io/badge/Sign_up-orange.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) [![paths](https://img.shields.io/badge/Sign_in-gray.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
+### [![paths](https://img.shields.io/badge/Join_Now-grey.svg)](https://github.com/corentinvl/odyschool/blob/master/README.md) 
 
 ### Table of Contents
 
