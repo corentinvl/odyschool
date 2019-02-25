@@ -3,7 +3,7 @@
 ***
 #### Odyschool is developing an online campus based on personalization and relationships.
 
-[![paths](https://youtu.be/IEzaFR_X35U?t=421)]
+![Omega](https://ih0.redbubble.net/image.209141677.5261/ap,550x550,12x16,1,transparent,t.u2.png)
 
 ## Menu
 
